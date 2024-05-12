@@ -2,6 +2,8 @@
 
 Computational Social Science -- The Essay
 
+**Next seminar: 20240518 05:30 PM @ 家园三层**
+
 ## Caution
 
 - 为了避免冲突，准备提交的文件，请先存于本地仓库外的目录。
