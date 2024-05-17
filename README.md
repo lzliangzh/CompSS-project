@@ -9,6 +9,14 @@ Computational Social Science -- The Essay
 - 为了避免冲突，准备提交的文件，请先存于本地仓库外的目录。
 - 预备提交时，先拉取远程仓库，再将准备提交的文件移动到仓库内相应目录，然后再提交。
 
+## 20240518
+
+### Preparation
+
+- 20240517 更新了 `references` 文件夹
+
+
+
 ## 20240511
 
 ### Progress
